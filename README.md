@@ -25,9 +25,9 @@ Currently automating everything with *Terraform • Kubernetes • Jenkins • A
 - Cutting cloud costs with spot instances & intelligent auto-scaling
 
 ### Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/anup-singh-rawat-8836b716b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/anup-rawat)  
 *anuprawat1055@gmail.com* • Alberta, Canada  
-‪+1 (780) 604-6355‬
+
 
 *Open to Senior DevOps / Platform / SRE roles* (Canada • US • Remote)  
 Available Q1 2026 • Actively interviewing
